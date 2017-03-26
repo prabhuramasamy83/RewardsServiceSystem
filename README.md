@@ -14,6 +14,6 @@ log4j version: 1.2.17
 
 Unit test cases can be executed in the following ways
 1. Run RewardsSystemTestSuiteRunner.java
-2. Run mvn test or run maven test from eclipse (Note:Surefire reports are generated)
+2. Run mvn test or run maven test from eclipse
 3. Run individual test classes
 

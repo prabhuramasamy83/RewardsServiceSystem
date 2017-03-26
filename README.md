@@ -10,6 +10,7 @@ Spring test version :2.5
 Mockito version : 1.9.5
 Junit version: 4.4
 log4j version: 1.2.17
+EclEmma (Code Coverage tool)  version :2.3.3 
 
 
 Unit test cases can be executed in the following ways
